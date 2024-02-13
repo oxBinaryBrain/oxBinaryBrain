@@ -18,7 +18,10 @@
 - 📫 How to reach me **ud4yg@yandex.com**
 
 - ⚡ Fun fact **I'm a Crypto Enthusiast**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxBinaryBrain&label=Profile%20views&color=0e75b6&style=flat" alt="oxBinaryBrain" /> </p>
+
+
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761150da0adfbaa4148376ed6f4dc3893ab49b800c45&rid=giphy.gif&ct=g">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@udayg6389896490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@udayg6389896490" height="30" width="40" /></a>
