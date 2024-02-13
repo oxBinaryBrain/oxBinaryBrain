@@ -38,11 +38,4 @@
 </p>
 <br />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oxBinarBrain&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-  
-</br>
 
-## Contribution Graph
-
-![snake gif](https://github.com/oxBinarBrain/oxBinarBrain/blob/output/github-contribution-grid-snake.svg)
