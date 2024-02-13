@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uday G</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![Uday alt oxBinaryBrain](https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/banner.jpg)
-<img align="right" alt="Coding" width="400" src="https://github.com/p4rz1v4l26/p4rz1v4l26/blob/master/ani.gif">
+<img align="right" alt="Coding" width="400" src="https://ideogram.ai/g/xVTeUm4gT7qlpHvl77yNCw/0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxBinaryBrain&label=Profile%20views&color=0e75b6&style=flat" alt="oxBinaryBrain" /> </p>
 
