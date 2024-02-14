@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@udayg6389896490" target="blank"><img src="https://img.shields.io/twitter/follow/@udayg6389896490?logo=twitter&style=for-the-badge" alt="@udayg6389896490" /></a> </p>
 
-- 🔭 I’m currently working on **.NET Framework**
+- 🔭 I’m currently working on **Open source projects**
 
 - 🌱 I’m currently learning **.NET Frameworks**
 
