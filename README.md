@@ -38,6 +38,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxBinaryBrain&show_icons=true&locale=en" alt="oxBinaryBrain" /></p>
 
+![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxBinaryBrain&show_icons=true&theme=dark)
+
+
 
 <aside><p>
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oxBinaryBrain&layout=donut&theme=dark'>
