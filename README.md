@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&random=false&width=490&height=49&lines=Hi!+there+I'm+Uday+G;Welcome+to+my+Github+Profile!;Working+on+Open-Souce+Contributions;Web+Development+%7C+Software+Engineering+;AI+Tools+%7C+Crypto+%7C+Gaming+%7C+Coding;Machine+learning+Enthusiast" alt="Typing SVG" /></a>
 </p>
-<h3 align="center">A passionate frontend developer from Bangalore/h3>
+<h3 align="center">A passionate frontend developer from Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxBinaryBrain&label=Profile%20views&color=0e75b6&style=flat" alt="oxBinaryBrain" /> </p>
 
