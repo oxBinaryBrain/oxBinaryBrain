@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+there+I'm+Uday+G;Welcome+to+my+Profile!;Working+on+Open-Souce+Contributions;I'm+currently+learning+.NET+Full+Stack+Development;Web+Development+%7C+Software+Engineering+%7C+AI+Tools;Machine+learning+Enthusiast" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+there+I'm+Uday+G;Welcome+to+my+Profile!;Open-Souce+Contributions;Web+Development+%7C+Software+Engineering+;AI+Tools+%7C+Crypto+;Machine+learning+Enthusiast)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
