@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ud4yg@yandex.com**
 
-- ⚡ Fun fact **I'm a Crypto Enthusiast**
+- ⚡ Fun fact **I Study at Presidency University**
 
 
 <h3 align="left">Connect with me:</h3>
