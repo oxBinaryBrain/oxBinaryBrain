@@ -1,4 +1,4 @@
-<enter><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+there+I'm+Uday+G;Welcome+to+my+Profile!;Working+on+Open-Souce+Contributions;I'm+currently+learning+.NET+Full+Stack+Development;Web+Development+%7C+Software+Engineering+%7C+AI+Tools;Machine+learning+Enthusiast" alt="Typing SVG" /></a></center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hi!+there+I'm+Uday+G;Welcome+to+my+Profile!;Working+on+Open-Souce+Contributions;I'm+currently+learning+.NET+Full+Stack+Development;Web+Development+%7C+Software+Engineering+%7C+AI+Tools;Machine+learning+Enthusiast" alt="Typing SVG" /></a>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
