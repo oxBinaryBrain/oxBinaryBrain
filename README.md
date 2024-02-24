@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+there+I'm+Uday+G;Welcome+to+my+Profile!;Working+on+Open-Souce+Contributions;I'm+currently+learning+.NET+Full+Stack+Development;Web+Development+%7C+Software+Engineering+%7C+AI+Tools;Machine+learning+Enthusiast" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi!+there+I'm+Uday+G;Welcome+to+my+Profile!;Working+on+Open-Souce+Contributions;I'm+currently+learning+.NET+Full+Stack+Development;Web+Development+%7C+Software+Engineering+%7C+AI+Tools;Machine+learning+Enthusiast" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxBinaryBrain&label=Profile%20views&color=0e75b6&style=flat" alt="oxBinaryBrain" /> </p>
