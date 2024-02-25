@@ -25,6 +25,9 @@
 - ⚡ Fun fact **I Study at Presidency University**
 
 
+
+<img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxBinaryBrain&show_icons=true&locale=en&langs_count=6&layout=compact&theme=gruvbox" alt="oxBinaryBrain"/>  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@udayg6389896490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@udayg6389896490" height="30" width="40" /></a>
