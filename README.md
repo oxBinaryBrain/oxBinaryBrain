@@ -51,6 +51,6 @@
   
 <img align='center' src='https://streak-stats.demolab.com/?user=oxBinaryBrain&theme=dark'>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oxBinaryBrain&theme=onedark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=oxBinaryBrain&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ....
