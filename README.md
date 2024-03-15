@@ -41,7 +41,7 @@
 
 
 
-![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxBinaryBrain&show_icons=true&theme=dark)
+![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxBinaryBrain&show_icons=true&theme=darkhub)
 
 
 
