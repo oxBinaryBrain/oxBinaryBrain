@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/oxBinaryBrain?tab=followers"><img src="https://img.shields.io/github/followers/oxBinaryBrain?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/udayg6389896490" target="blank"><img src="https://img.shields.io/twitter/follow/@udayg6389896490?logo=twitter&style=for-the-badge" alt="@udayg6389896490" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@udayg6389896490" target="blank"><img src="https://img.shields.io/twitter/follow/@udayg6389896490?logo=twitter&style=for-the-badge" alt="udayg6389896490" /></a> </p>
 
 - 🔭 I’m currently working on **Advancing my Skills with Languages and tools**
 
