@@ -43,9 +43,14 @@
 
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxBinaryBrain&show_icons=true&theme=dark)
 
+
+
 <p>
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oxBinaryBrain&langs_colors=python:#2a7725&theme=dark'>
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oxBinaryBrain&layout=compact&theme=dark&hide_border=true&langs_count=6&langs_colors=typescript:00ccff,javascript:ffcc00,python:33ff66,css:ff66cc&card_width=400&title_color=ffffff&text_color=9f9f9f&bg_color=0d1117'>
 </p>
+
+
+
 <img align='center' src='https://streak-stats.demolab.com/?user=oxBinaryBrain&theme=dark'>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oxBinaryBrain&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
