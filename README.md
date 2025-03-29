@@ -46,9 +46,8 @@
 
 
 <p>
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oxBinaryBrain&layout=donut&theme=dark'>
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oxBinaryBrain&layout=donut&theme=dark&langs_count=5&langs_colors=typescript:00ccff'>
 </p>
-  
 <img align='center' src='https://streak-stats.demolab.com/?user=oxBinaryBrain&theme=dark'>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oxBinaryBrain&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
