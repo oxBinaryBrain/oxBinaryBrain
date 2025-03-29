@@ -46,9 +46,8 @@
 
 
 <p>
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oxBinaryBrain&layout=compact&theme=dark&hide_border=true&langs_count=6&langs_colors=typescript:00ccff,javascript:ffcc00,python:33ff66,css:ff66cc&card_width=400&title_color=ffffff&text_color=9f9f9f&bg_color=0d1117'>
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oxBinaryBrain&layout=compact&theme=dark&hide_border=true&langs_count=6&langs_colors=typescript:00ccff,javascript:ffcc00,python:33ff66,css:ff66cc&title_color=3b9cff&text_color=ffffff&bg_color=0d1117'>
 </p>
-
 
 
 <img align='center' src='https://streak-stats.demolab.com/?user=oxBinaryBrain&theme=dark'>
