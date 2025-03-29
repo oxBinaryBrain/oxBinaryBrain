@@ -44,7 +44,7 @@
 ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxBinaryBrain&show_icons=true&theme=dark)
 
 <p>
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oxBinaryBrain&layout=donut&theme=dark'>
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oxBinaryBrain&&langs_colors=python:#2a7725&layout=donut&theme=dark'>
 </p>
 <img align='center' src='https://streak-stats.demolab.com/?user=oxBinaryBrain&theme=dark'>
 
