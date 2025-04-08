@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Advancing my Skills with Languages and tools**
 
-- 🌱 I’m currently learning **.NET Frameworks**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
