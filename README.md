@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **Javascript,Linux,Web Development,etc...**
+- 💬 Ask me about **JavaScript,React Frameworks,Web Development,etc...**
 
 - 📫 How to reach me **ud4yg@yandex.com**
 
